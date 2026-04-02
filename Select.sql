@@ -1,0 +1,1 @@
+select * from emp right join stu on emp.name=stu.name;
